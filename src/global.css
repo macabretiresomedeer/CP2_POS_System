@@ -1,0 +1,6 @@
+html, body {
+    overflow: auto;
+    height: 100%; /* Ensures the full height is used for the flexbox layout */
+    margin: 0;   /* Removes default margin to avoid unintended scrolling */
+    background-color: #CADCFC;
+}
